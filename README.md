@@ -1,1 +1,1 @@
-# SolidBulletHell
+Игра в жанре bullethell от первого лица в 3D
